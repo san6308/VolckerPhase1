@@ -1,0 +1,326 @@
+global variable JSON data it is accessible chef server
+
+indexed 
+
+accessible or search
+
+
+knife using
+
+manually
+
+knife
+
+data bag folder
+
+data bag item
+
+JSON  (USING KNIFE)
+
+KNIFE DATA BAG CREATE <PROVIDE DATA BAG NAME>
+
+KNIFE DATA BAG FROM FILE BAG_NAME NAME.JSON
+
+KNIFE DATA BAGFROM FILE ADMINS CHAR.JSON
+
+CHEF-REPO DATA BAG FROM FILE DB .JSON
+
+MANUALLY
+
+data_bag       key:value pair data
+     - admins
+       -home.json
+       -last.json
+       -view.json
+     - db_users
+     - db_config
+     - db_views
+
+ssh
+
+YAML serilazation format
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+NAGIOS 
+
+NODES
+
+MASTERE--OS---CONFIGURAGTION
+SLAVE----OS---
+
+
+PACKAGE HTTPD
+ACTION ENABLE DISABLE
+
+FILE '/ETC/MOTD'DO
+OWNER ROOT
+GRUP 'ROOT'
+MODE 'NODE'
+ACTION 'CREAT'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nodes are being defined by certain list of values
+
+Physical layers 
+network layers
+logical layers
+
+
+
+knife command list
+
+knife cookbook upload -a
+
+knife cookbook list
+
+knife cookbook list -a
+
+vmdr 1.0.0 1.02
+
+Delete our cookbook
+
+knife cookbook delete
+
+knife cookbook show cookbookname
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+D DESIGN
+E ESTIMTE
+M MEAUREE
+A ANALYSIS
+C CONTROL
+
+=============================================
+
+experience based estimation techique
+
+Wideband Delphi Estimation baseed 
+==========================
+Step 1 : Choose our team
+
+Step 2 : Kick off teaming
+brainstorm and witeen document assumptions
+WBS  (10-20 TASKS)
+
+Step 3 : Individual preperation
+
+Step 4 : Estimation Session
+
+Step 5 : Assemble Tasks
+final task list,esgtimates...assumptions
+
+Step 6 :
+
+propject naagmebr
+
+Gantt CChart
+
+
+project planning
+montiroing
+evalution
+logframe matrix
+
+
+Internal Stakeholder : Within the organizatoin : 
+
+External Stakeholder : Outside of the organization 
+
+======================================================================
+impacted or have effect on the organization froms takeholder 
+
+High Power,Interested people : Mange closely
+
+High Power,Internested people : keep contened
+
+Low Power,Interested people : Keep informed
+
+Low Power, less intereste people : Monitor with minimum effort
+
+prirotize...reconcile and balance stakeholders
+
+Signifacnt stakholder needs with organizations streatgies and actions
+========================================================
+
+receie deliver or project from projects
+
+clienr and organization wrok with implementatioi of project
+
+Identify the expert for the project dojmain
+
+Intreset :
+===========
+outcomes do do stakeholders
+
+Influence :
+=============
+who controls the project asses and resources?
+
+impact :
+
+Involve
+
+Project Vision
+Project Scope
+Business Process Analysis
+Requirement Elictation
+Requirement Validation
+Desgin Reviews
+UAT TESTING
+
+Participton Matrix
+
+pt             inform      consult    partner
+
+needs
+assesment
+
+planing
+
+Implement
+
+Monitori&
+evaluate
+
+
+Stakeholder Analysis Template
+
+group  Repres
+
+BPMN : BUSINESS PROCESS MODELLING NOTATION
+=======================================
+UML :  Objecgt Model Group
+
+Star UML
+
+UML intrgration programming language like c,c+=
+
+Conceptual Model
+
+UML Building Blocks
+Rules to connect the building blocks
+mechanism of uml
+
+Objects represent an entity which will cat like basic 
+building block
+
+Class : blue print of thee object
+
+Abstraction : respreent the behaviour of an entityr
+
+Encapsulation : mechanism bind the data together and higind from out side world
+
+Inheritance : 
+
+Polymorphsim : define the exist in different forms condition
+
+E
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Analyze requirement
+
+Measure :rough numbers associated to functionality or application
+
+8:30 pm ist--
+====================
+http://hadoopbigdatatutorial.com/home/course/hadoop-bigdata-tutorial/hadoop-testing
+
+
+==================================================
+Requiremnt /Change request
+Predict how many number of stocks we are going to sale as part of 2018
+Existing systeem or data in eithere of the format
+Equity Stocks Sell Buy Proeduct list of itme....Customers
+Mapping documents and Mining informatoin
+
+Feasibility Analysis
+==============================
+vectors---numeric..integer...complex...raw...logical;
+lists
+matrices
+arrays
+factors
+dataframes
+
+
+
